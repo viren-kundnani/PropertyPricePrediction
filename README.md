@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project predicts house prices in Bangalore using a linear regression model. The analysis is implemented in a Jupyter notebook, and the dataset (`data.csv`) is included for reference.
+This project predicts house prices in Bangalore using a linear regression model. The analysis is implemented in a Jupyter notebook, and the dataset (`Bengaluru_House_Data.csv`) is included for reference.
 
 ## Files:
 
